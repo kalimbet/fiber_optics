@@ -1,0 +1,12 @@
+Hydrogen:	1.0001
+Air:	1.0003
+Carbon dioxide:	1.0005
+Water:	1.333
+Ethyl Alcohol:	1.362
+Glycerine:	1.473
+Ice:	1.31
+Polystyrene:	1.59
+Crown glass:	1.50 - 1.62
+Flint glass:	1.57 - 1.75
+Diamond:	2.417
+Acrylic:	1.49
